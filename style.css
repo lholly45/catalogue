@@ -1,0 +1,26 @@
+body {
+      background-color: #00FFFF;
+}
+
+p {
+    color: chocolate;
+}
+
+.homep {
+    color:red;
+    text-align: right;
+}
+
+img {
+    float: left;
+}
+
+.aboutp {
+    color: rgb(255, 0, 140);
+    text-align: center;
+}
+
+.imgdiv {
+    inset-block: right;
+    
+}
